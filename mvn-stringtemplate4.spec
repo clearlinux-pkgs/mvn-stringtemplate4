@@ -4,7 +4,7 @@
 #
 Name     : mvn-stringtemplate4
 Version  : 4.0.4
-Release  : 1
+Release  : 2
 URL      : https://github.com/antlr/website-st4/raw/gh-pages/download/ST-4.0.4-src.zip
 Source0  : https://github.com/antlr/website-st4/raw/gh-pages/download/ST-4.0.4-src.zip
 Source1  : https://repo1.maven.org/maven2/org/antlr/ST4/4.0.4/ST4-4.0.4.jar
